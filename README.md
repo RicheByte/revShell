@@ -1,16 +1,16 @@
-# Reverse Shell Generator 🔥
+# Reverse Shell Generator 
 
 A powerful CLI tool for generating reverse shells, bind shells, and payloads for CTFs and authorized penetration testing.
 
 ## Features
 
-- 🚀 **200+ Reverse Shell Payloads** - Extensive collection for various platforms
-- 🖥️ **Multi-Platform Support** - Linux, Windows, macOS, Android, and more
-- 🔧 **Multiple Shell Types** - Reverse shells, bind shells, MSFVenom payloads, HoaxShell
-- 📋 **Clipboard Integration** - Copy commands with one click
-- 🎯 **Listener Commands** - Auto-generated listener commands for your setup
-- 🎨 **Beautiful CLI** - Interactive and user-friendly interface
-- ⚡ **Quick Filtering** - Filter by platform and shell type
+-  **200+ Reverse Shell Payloads** - Extensive collection for various platforms
+-  **Multi-Platform Support** - Linux, Windows, macOS, Android, and more
+-  **Multiple Shell Types** - Reverse shells, bind shells, MSFVenom payloads, HoaxShell
+-  **Clipboard Integration** - Copy commands with one click
+-  **Listener Commands** - Auto-generated listener commands for your setup
+-  **Beautiful CLI** - Interactive and user-friendly interface
+-  **Quick Filtering** - Filter by platform and shell type
 
 ## Installation
 
@@ -226,7 +226,7 @@ node src/index.js
 
 ## Legal Disclaimer
 
-⚠️ **This tool is for authorized penetration testing and CTF competitions only.**
+ **This tool is for authorized penetration testing and CTF competitions only.**
 
 - Only use on systems you own or have explicit permission to test
 - Unauthorized use is illegal and unethical
