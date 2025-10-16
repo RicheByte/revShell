@@ -1,0 +1,26 @@
+{
+  "name": "revshell-maker",
+  "version": "1.0.0",
+  "description": "CLI Reverse Shell Generator for CTFs",
+  "main": "src/index.js",
+  "bin": {
+    "revshell-maker": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "boxen": "^7.1.1",
+    "chalk": "^4.1.2",
+    "clipboardy": "^3.0.0",
+    "inquirer": "^8.2.7"
+  },
+  "keywords": [
+    "reverse-shell",
+    "ctf",
+    "pentest",
+    "security"
+  ],
+  "author": "CTF Player",
+  "license": "MIT"
+}
