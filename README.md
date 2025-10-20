@@ -24,7 +24,7 @@ A powerful CLI tool for generating reverse shells, bind shells, and payloads for
 ```bash
 # Clone the repository
 git clone https://github.com/RicheByte/revShell
-cd revshell-maker
+cd revShell
 
 # OR download and extract the files to a directory
 ```
