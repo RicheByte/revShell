@@ -1,6 +1,7 @@
 # Reverse Shell Generator 
 
 A powerful CLI tool for generating reverse shells, bind shells, and payloads for CTFs and authorized penetration testing.
+![Demo Video](/assets/image.gif)
 
 ## Features
 
