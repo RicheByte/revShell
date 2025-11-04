@@ -56,7 +56,7 @@ sudo pacman -S xclip
 ```bash
 chmod +x src/index.js
 ```
-
+![example screensots](/assets/commands.png)
 ## Usage
 
 ### Basic Usage
@@ -99,7 +99,7 @@ revshell-maker
    - Execute the payload on the target machine
 
 ## Examples
-
+![example screensots](/assets/example.png)
 ### Reverse Shell Example
 ```
 ┌─────────────────────────────────────┐
@@ -243,9 +243,6 @@ Want to add more payloads or improve the tool?
 3. Follow the existing format
 4. Submit a pull request
 
-## License
-
-MIT License - see LICENSE file for details
 
 ## Support
 
